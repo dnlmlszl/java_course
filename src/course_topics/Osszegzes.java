@@ -8,7 +8,7 @@ public class Osszegzes {
         }
         return sum;
     }
-    public static void demonstrateSummationPrinciple() {
+    public static void osszegzestetel() {
         int[] array = {1, 2, 3, 4, 5}; // Példa tömb
         int sum = calculateSum(array);
 
@@ -26,6 +26,6 @@ public class Osszegzes {
         System.out.println("Számított összeg: " + calculatedSum);
     }
     public static void main(String[] args) {
-        demonstrateSummationPrinciple();
+        osszegzestetel();
     }
 }
