@@ -1,4 +1,4 @@
-package course_topics;
+package prog_tetelek;
 
 public class Osszegzes {
     public static int calculateSum(int[] array) {

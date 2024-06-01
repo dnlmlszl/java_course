@@ -1,4 +1,4 @@
-package course_topics;
+package prog_tetelek;
 
 public class Megszamlalas {
     public static int countElements(int[] array) {
